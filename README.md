@@ -8,6 +8,7 @@
 ![etapa01](/imagens/etapa01.png)
 
 ### Java Fundamentos:
+- [Pratique com questões](https://github.com/my-github-2024/Java-Solved-Problems)
 - Inicie sua jornada com a leitura e prática das bases do Java, abrangendo estruturas de controle, tipos de dados e manipulação de strings.
 
 ### Programação Orientada a Objetos (POO):
