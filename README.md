@@ -28,6 +28,7 @@
 ![etapa02](/imagens/etapa02.png)
 
 ### 05 - Princípios de Design e Padrões:
+- [Design Orientado a Objetos](https://github.com/my-github-2024/Design-Patterns)
 - [Guru da refatoração](https://refactoring.guru/design-patterns)
 - Familiarize-se com os princípios SOLID e estude design patterns aplicáveis ao desenvolvimento Java.
 
