@@ -8,7 +8,7 @@ Este guia busca equipar os desenvolvedores com as competências necessárias par
 ---
 ## Etapa 01 - O começo
 
-![etapa01](/imagens/img01.png)
+![etapa01](/imagens/etapa01.png)
 
 ### Java Fundamentos:
 - Leia e pratique as bases do Java, incluindo estruturas de controle, tipos de dados e manipulação de strings.
@@ -29,7 +29,7 @@ Este guia busca equipar os desenvolvedores com as competências necessárias par
 ---
 ## Etapa 02 - Aprofundamento
 
-![etapa02](/imagens/img02.png)
+![etapa02](/imagens/etapa02.png)
 
 ### Princípios de Design e Padrões:
 - Princípios SOLID: Familiarize-se com os princípios SOLID.
@@ -48,7 +48,7 @@ Este guia busca equipar os desenvolvedores com as competências necessárias par
 ---
 ## Etapa 03 - Conceitos avançados
 
-![etapa03](/imagens/img03.png)
+![etapa03](/imagens/etapa03.png)
 
 ### Mensageria:
 - RabbitMQ e Kafka
