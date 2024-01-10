@@ -9,6 +9,7 @@
 
 ### 01 - Java Fundamentos:
 - [Pratique com questões](https://github.com/my-github-2024/Java-Solved-Problems)
+- [Estrutura de dados e Algoritmos](https://github.com/my-github-2024/Data-Structures-Java)
 - Inicie sua jornada com a leitura e prática das bases do Java, abrangendo estruturas de controle, tipos de dados e manipulação de strings.
 
 ### 02 - Programação Orientada a Objetos (POO):
