@@ -7,20 +7,39 @@
 
 ![etapa01](/imagens/etapa01.png)
 
+
 ### 01 - Java Fundamentos:
-- [Pratique com questões](https://github.com/my-github-2024/Java-Solved-Problems)
-- [Estrutura de dados e Algoritmos](https://github.com/my-github-2024/Data-Structures-Java)
-- Inicie sua jornada com a leitura e prática das bases do Java, abrangendo estruturas de controle, tipos de dados e manipulação de strings.
+- [Pratique com questões](https://github.com/my-github-2024/Java-Solved-Problems):
+    - estruturas de controle
+    - tipos de dados
+    - manipulação de strings
+- [Estrutura de dados e Algoritmos](https://github.com/my-github-2024/Data-Structures-Java):
+    - Algoritmos de busca e de ordenação
+    - Estruturas de dados lineares, listas ligadas, tabelas hash, árvores e heap
+  
 
 ### 02 - Programação Orientada a Objetos (POO):
-- Compreenda os conceitos fundamentais de POO e dê os primeiros passos implementando classes, objetos, herança, polimorfismo e encapsulamento.
+- [Conceitos fundamentais](https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/)
+- [Encapsulamento](https://www.alura.com.br/artigos/o-que-e-encapsulamento)
+- [Pilares da orientação a objetos](https://www.dio.me/articles/os-4-pilares-da-programacao-orientada-a-objetos-SSU4Q9)
+- [Projetos - pratique](https://github.com/catarinaramalho/P2-LP2)
+
 
 ### 03 - Spring Framework:
-- Explore os conceitos básicos do Spring Framework, envolvendo-se com Injeção de Dependência, Contêiner IoC e Anotações.
+- [Benefícios deste Framework](https://www.alura.com.br/artigos/spring-conheca-esse-framework-java)
+- [Módulos do Spring Framework](https://blog.geekhunter.com.br/spring-framework/)
+- [Livro - Vire o jogo com Spring Framework](https://www.casadocodigo.com.br/products/livro-spring-framework)
+  
 
 ### 04 - Banco de Dados:
+- [Conceitos fundamentais](https://academy.indicium.tech/blog/banco-de-dados-database-sgbd-voce-sabe-o-que-e-isso)
+- [O que é SQL?](https://aws.amazon.com/pt/what-is/sql/)
 - [Pratique SQL](https://sqlbolt.com/)
-- Compreenda a gestão de dados, desde bancos SQL (como MySQL) até NoSQL (como MongoDB), e utilize Spring Data & JPA para integração eficiente com diferentes fontes de dados.
+- [Bancos não relacionais e NoSQL](https://learn.microsoft.com/pt-br/azure/architecture/data-guide/big-data/non-relational-data)
+
+#### 04.2 - Integrar aplicação Java com Banco de Dados
+- [JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence)
+- [Spring Data](https://spring.io/projects/spring-data/)
 
 ---
 ## Etapa de Aprofundamento
@@ -30,7 +49,8 @@
 ### 05 - Princípios de Design e Padrões:
 - [Design Orientado a Objetos](https://github.com/my-github-2024/Design-Patterns)
 - [Guru da refatoração](https://refactoring.guru/design-patterns)
-- Familiarize-se com os princípios SOLID e estude design patterns aplicáveis ao desenvolvimento Java.
+- [Principal livro sobre Design Patterns - Gang of Four](https://www.amazon.com.br/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+
 
 ### 06 - Arquitetura de Software:
 - Explore conceitos gerais de arquitetura de software e aprofunde-se na arquitetura de microsserviços.
