@@ -9,37 +9,53 @@
 
 
 ### 01 - Java Fundamentos:
-- [Pratique com questões](https://github.com/my-github-2024/Java-Solved-Problems):
-    - estruturas de controle
-    - tipos de dados
-    - manipulação de strings
-- [Estrutura de dados e Algoritmos](https://github.com/my-github-2024/Data-Structures-Java):
+- [Sobre a linguagem](https://www.alura.com.br/artigos/java):
+    - História da linguagem
+    - Independência de plataforma
+- [Pratique com questões](https://github.com/joao-pedro-angelo/Java-Solved-Problems):
+    - Estruturas de controle
+    - Tipos de dados
+    - Manipulação de strings
+- [Estrutura de dados e Algoritmos](https://github.com/joao-pedro-angelo/Data-Structures-Java):
     - Algoritmos de busca e de ordenação
-    - Estruturas de dados lineares, listas ligadas, tabelas hash, árvores e heap
+    - Estruturas lineares, linked list, tabela hash, árvores e heap
   
 
 ### 02 - Programação Orientada a Objetos (POO):
-- [Conceitos fundamentais](https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/)
-- [Encapsulamento](https://www.alura.com.br/artigos/o-que-e-encapsulamento)
-- [Pilares da orientação a objetos](https://www.dio.me/articles/os-4-pilares-da-programacao-orientada-a-objetos-SSU4Q9)
-- [Projetos - pratique](https://github.com/catarinaramalho/P2-LP2)
+- [Conceitos fundamentais](https://github.com/joao-pedro-angelo/Design-Patterns/blob/main/RevisaoPOO.md):
+    - Classes e objetos
+    - Encapsulamento e ocultação da informação
+    - Abstração
+    - Interfaces, herança e polimorfismo
+- [Projetos práticos](https://github.com/catarinaramalho/P2-LP2):
+    - Java e POO, sem frameworks
 
 
 ### 03 - Spring Framework:
-- [Benefícios deste Framework](https://www.alura.com.br/artigos/spring-conheca-esse-framework-java)
-- [Módulos do Spring Framework](https://blog.geekhunter.com.br/spring-framework/)
-- [Livro - Vire o jogo com Spring Framework](https://www.casadocodigo.com.br/products/livro-spring-framework)
+- [Spring Framework - conceitos e primeira aplicação](https://www.michellibrito.com/ebook-spring-boot-3-microservices):
+    - Módulos do ecossistema Spring
+    - Inversão de controle e injeção de dependências
+    - Spring Boot
+    - Desenvolvimento de uma API
   
 
 ### 04 - Banco de Dados:
-- [Conceitos fundamentais](https://academy.indicium.tech/blog/banco-de-dados-database-sgbd-voce-sabe-o-que-e-isso)
-- [O que é SQL?](https://aws.amazon.com/pt/what-is/sql/)
-- [Pratique SQL](https://sqlbolt.com/)
-- [Bancos não relacionais e NoSQL](https://learn.microsoft.com/pt-br/azure/architecture/data-guide/big-data/non-relational-data)
+- [Conceitos fundamentais](https://academy.indicium.tech/blog/banco-de-dados-database-sgbd-voce-sabe-o-que-e-isso):
+    - O que é banco de dados e SGBD?
+    - Importância dos dados
+- [O que é SQL?](https://aws.amazon.com/pt/what-is/sql/):
+    - Sobre a linguagem de busca estruturada
+- [Pratique SQL](https://sqlbolt.com/):
+    - Site para praticar SQL
+- [Bancos não relacionais e NoSQL](https://learn.microsoft.com/pt-br/azure/architecture/data-guide/big-data/non-relational-data):
+    - Sobre bancos não relacionais
 
 #### 04.2 - Integrar aplicação Java com Banco de Dados
-- [JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence)
-- [Spring Data](https://spring.io/projects/spring-data/)
+- [JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence):
+    - Mapeamento Objeto-Relacional
+- [Spring Data](https://spring.io/projects/spring-data/):
+    - Um dos projetos do ecossistema Spring  
+
 
 ---
 ## Etapa de Aprofundamento
@@ -47,19 +63,24 @@
 ![etapa02](/imagens/etapa02.png)
 
 ### 05 - Princípios de Design e Padrões:
-- [Design Orientado a Objetos](https://github.com/my-github-2024/Design-Patterns)
-- [Guru da refatoração](https://refactoring.guru/design-patterns)
-- [Principal livro sobre Design Patterns - Gang of Four](https://www.amazon.com.br/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+- [Design Orientado a Objetos](https://github.com/joao-pedro-angelo/Design-Patterns):
+    - Importância dos padrões de projeto
+    - Modelagem de sistemas OO com base em alguns padrões
+- [Guru da refatoração](https://refactoring.guru/design-patterns):
+    - Melhor site para estudar Design Patterns
 
 
 ### 06 - Arquitetura de Software:
 - Explore conceitos gerais de arquitetura de software e aprofunde-se na arquitetura de microsserviços.
 
+
 ### 07 - Integração e Entrega Contínua:
 - Entenda os processos de integração e entrega contínua, abrangendo práticas e ferramentas essenciais.
 
+
 ### 08 - Escalabilidade e Contêineres:
 - Introdução ao Kubernetes para orquestração eficiente de contêineres.
+
 
 ---
 ## Etapa Avançada
@@ -69,11 +90,14 @@
 ### 09 - Mensageria:
 - Aprofunde-se em RabbitMQ e Kafka para compreender a comunicação assíncrona entre microsserviços.
 
+
 ### 10 - Desenvolvimento na Nuvem:
 - Explore serviços AWS para hospedagem e aprimore suas habilidades em deploy na nuvem.
 
+
 ### 11 - Testes de software:
 - Implemente testes unitários e de integração, além de técnicas de monitoramento e observabilidade para manter a qualidade do software.
+
 
 ---
 ## Conclusão
