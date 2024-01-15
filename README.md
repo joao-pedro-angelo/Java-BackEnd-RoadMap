@@ -13,48 +13,28 @@
     - História da linguagem
     - Independência de plataforma
 - [Pratique com questões](https://github.com/joao-pedro-angelo/Java-Solved-Problems):
+    - Repositório com questões resolvidas
     - Estruturas de controle
-    - Tipos de dados
-    - Manipulação de strings
+    - Tipos e manipulação de dados
 - [Estrutura de dados e Algoritmos](https://github.com/joao-pedro-angelo/Data-Structures-Java):
+    - Repositório com conceitos teóricos e práticos sobre Estruturas de dados e Algoritmos
     - Algoritmos de busca e de ordenação
     - Estruturas lineares, linked list, tabela hash, árvores e heap
   
 
 ### 02 - Programação Orientada a Objetos (POO):
-- [Conceitos fundamentais](https://github.com/joao-pedro-angelo/Design-Patterns/blob/main/RevisaoPOO.md):
-    - Classes e objetos
-    - Encapsulamento e ocultação da informação
-    - Abstração
-    - Interfaces, herança e polimorfismo
-- [Projetos práticos](https://github.com/catarinaramalho/P2-LP2):
-    - Java e POO, sem frameworks
+> Em breve serão inseridos links aqui
 
 
 ### 03 - Spring Framework:
-- [Spring Framework - conceitos e primeira aplicação](https://www.michellibrito.com/ebook-spring-boot-3-microservices):
-    - Módulos do ecossistema Spring
-    - Inversão de controle e injeção de dependências
-    - Spring Boot
-    - Desenvolvimento de uma API
+> Em breve serão inseridos links aqui
   
 
 ### 04 - Banco de Dados:
-- [Conceitos fundamentais](https://academy.indicium.tech/blog/banco-de-dados-database-sgbd-voce-sabe-o-que-e-isso):
-    - O que é banco de dados e SGBD?
-    - Importância dos dados
-- [O que é SQL?](https://aws.amazon.com/pt/what-is/sql/):
-    - Sobre a linguagem de busca estruturada
-- [Pratique SQL](https://sqlbolt.com/):
-    - Site para praticar SQL
-- [Bancos não relacionais e NoSQL](https://learn.microsoft.com/pt-br/azure/architecture/data-guide/big-data/non-relational-data):
-    - Sobre bancos não relacionais
+> Em breve serão inseridos links aqui
 
 #### 04.2 - Integrar aplicação Java com Banco de Dados
-- [JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence):
-    - Mapeamento Objeto-Relacional
-- [Spring Data](https://spring.io/projects/spring-data/):
-    - Um dos projetos do ecossistema Spring  
+> Em breve serão inseridos links aqui
 
 
 ---
@@ -64,22 +44,25 @@
 
 ### 05 - Princípios de Design e Padrões:
 - [Design Orientado a Objetos](https://github.com/joao-pedro-angelo/Design-Patterns):
+    - Repositório com conceitos teóricos e implementações de diversos padrões
     - Importância dos padrões de projeto
     - Modelagem de sistemas OO com base em alguns padrões
 - [Guru da refatoração](https://refactoring.guru/design-patterns):
-    - Melhor site para estudar Design Patterns
+    - Melhor site para estudar este tópico
+- [GoF - Design Patterns](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
+    - Principal livro sobre Design Patterns
 
 
 ### 06 - Arquitetura de Software:
-- Explore conceitos gerais de arquitetura de software e aprofunde-se na arquitetura de microsserviços.
+> Em breve serão inseridos links aqui
 
 
 ### 07 - Integração e Entrega Contínua:
-- Entenda os processos de integração e entrega contínua, abrangendo práticas e ferramentas essenciais.
+> Em breve serão inseridos links aqui
 
 
 ### 08 - Escalabilidade e Contêineres:
-- Introdução ao Kubernetes para orquestração eficiente de contêineres.
+> Em breve serão inseridos links aqui
 
 
 ---
@@ -88,15 +71,15 @@
 ![etapa03](/imagens/etapa03.png)
 
 ### 09 - Mensageria:
-- Aprofunde-se em RabbitMQ e Kafka para compreender a comunicação assíncrona entre microsserviços.
+> Em breve serão inseridos links aqui
 
 
 ### 10 - Desenvolvimento na Nuvem:
-- Explore serviços AWS para hospedagem e aprimore suas habilidades em deploy na nuvem.
+> Em breve serão inseridos links aqui
 
 
 ### 11 - Testes de software:
-- Implemente testes unitários e de integração, além de técnicas de monitoramento e observabilidade para manter a qualidade do software.
+> Em breve serão inseridos links aqui
 
 
 ---
