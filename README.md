@@ -2,7 +2,7 @@
 
 > Este RoadMap foi elaborado para orientar aspirantes a desenvolvedores backend Java em sua jornada de aprendizado. Com uma abordagem abrangente, o guia oferece um conjunto de tópicos e habilidades essenciais, desde os fundamentos do Java até o desenvolvimento de microsserviços, práticas de design avançadas, integração na nuvem e estratégias de escalabilidade.
 
----
+
 ## Etapa Inicial
 
 ![etapa01](/imagens/etapa01.png)
@@ -22,6 +22,7 @@
     - Estruturas lineares, linked list, tabela hash, árvores e heap
   
 
+---
 ### 02 - Programação Orientada a Objetos (POO):
 - [Apostila Java e Orientação a Objetos](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
     - O que é Java e sintaxe básica
@@ -35,12 +36,15 @@
 > Neste momento, não precisa se preocupar com banco de dados ou frameworks, foque na linguagem e no paradigma<br>
 
 
+---
 ### 03 - Spring Framework:
 > Em breve serão inseridos links aqui
   
 
+---
 ### 04 - Banco de Dados:
 > Em breve serão inseridos links aqui
+
 
 #### 04.2 - Integrar aplicação Java com Banco de Dados
 > Em breve serão inseridos links aqui
@@ -62,14 +66,17 @@
     - Principal livro sobre Design Patterns
 
 
+---
 ### 06 - Arquitetura de Software:
 > Em breve serão inseridos links aqui
 
 
+---
 ### 07 - Integração e Entrega Contínua:
 > Em breve serão inseridos links aqui
 
 
+---
 ### 08 - Escalabilidade e Contêineres:
 > Em breve serão inseridos links aqui
 
@@ -83,10 +90,12 @@
 > Em breve serão inseridos links aqui
 
 
+---
 ### 10 - Desenvolvimento na Nuvem:
 > Em breve serão inseridos links aqui
 
 
+---
 ### 11 - Testes de software:
 > Em breve serão inseridos links aqui
 
