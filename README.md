@@ -23,7 +23,16 @@
   
 
 ### 02 - Programação Orientada a Objetos (POO):
-> Em breve serão inseridos links aqui
+- [Apostila Java e Orientação a Objetos](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
+    - O que é Java e sintaxe básica
+    - Introdução a Orientação a Objetos
+    - Aprofundamento - Pilares da Orientação a Objetos
+- [Vídeo Aula sobre Orientação a Objetos com Java](https://www.youtube.com/watch?v=aBhVJM31nBM)
+    - Revisão de conceitos importantes
+    - Pequeno projeto prático
+> É importante praticar os conceitos estudados<br>
+> Sistemas de Gerenciamento são ótimos para desenvolver e praticar os conceitos deste tópico<br>
+> Neste momento, não precisa se preocupar com banco de dados ou frameworks, foque na linguagem e no paradigma<br>
 
 
 ### 03 - Spring Framework:
