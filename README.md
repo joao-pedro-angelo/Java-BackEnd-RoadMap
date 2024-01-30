@@ -28,9 +28,10 @@
     - O que é Java e sintaxe básica
     - Introdução a Orientação a Objetos
     - Aprofundamento - Pilares da Orientação a Objetos
-- [Vídeo Aula sobre Orientação a Objetos com Java](https://www.youtube.com/watch?v=aBhVJM31nBM)
-    - Revisão de conceitos importantes
-    - Pequeno projeto prático
+- [Revisão Geral](/revisaoGeral.md)
+    - Sintaxe Java
+    - Conceitos básicos da Orientação a Objetos
+
 > É importante praticar os conceitos estudados<br>
 > Sistemas de Gerenciamento são ótimos para desenvolver e praticar os conceitos deste tópico<br>
 > Neste momento, não precisa se preocupar com banco de dados ou frameworks, foque na linguagem e no paradigma<br>
