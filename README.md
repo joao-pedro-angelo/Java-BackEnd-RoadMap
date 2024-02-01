@@ -49,6 +49,7 @@
 
 #### 04.2 - Integrar aplicação Java com Banco de Dados
 - [Sobre o JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
+    - Uma das APIs Java para facilitar o acesso e conexão a DBs
 
 
 ---
