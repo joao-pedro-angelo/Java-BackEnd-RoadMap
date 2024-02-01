@@ -28,7 +28,7 @@
     - O que é Java e sintaxe básica
     - Introdução a Orientação a Objetos
     - Aprofundamento - Pilares da Orientação a Objetos
-- [Revisão Geral - Iniciante](/revisaoGeral.md)
+- [Revisão Geral - Iniciante](/revisaoConceitosIniciais.md)
     - Sintaxe Java
     - Conceitos básicos da Orientação a Objetos
 - [Projeto Básico - MovieData](https://github.com/joao-pedro-angelo/MovieData)
