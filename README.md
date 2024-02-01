@@ -48,7 +48,7 @@
 
 
 #### 04.2 - Integrar aplicação Java com Banco de Dados
-> Em breve serão inseridos links aqui
+- [Sobre o JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
 
 
 ---
