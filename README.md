@@ -1,6 +1,6 @@
 # RoadMap para Desenvolvedor Backend Java
 
-> Este RoadMap foi elaborado para orientar aspirantes a desenvolvedores backend Java em sua jornada de aprendizado. Com uma abordagem abrangente, o guia oferece um conjunto de tópicos e habilidades essenciais, desde os fundamentos do Java até o desenvolvimento de microsserviços, práticas de design avançadas, integração na nuvem e estratégias de escalabilidade.
+> O guia oferece um conjunto de tópicos e habilidades essenciais, desde os fundamentos do Java até o desenvolvimento de microsserviços, práticas de design avançadas, integração na nuvem e estratégias de escalabilidade.
 
 
 ## Etapa Inicial
@@ -49,7 +49,7 @@
 
 #### 04.2 - Integrar aplicação Java com Banco de Dados
 - [Sobre o JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
-    - Uma das APIs Java para facilitar o acesso e conexão a DBs
+    - API Java que facilita o acesso a DBs
 
 
 ---
