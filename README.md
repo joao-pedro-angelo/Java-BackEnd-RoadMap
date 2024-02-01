@@ -105,4 +105,9 @@
 ---
 ## Conclusão
 
-Ao completar estas etapas, você estará equipado com habilidades essenciais para se destacar como desenvolvedor backend Java. Lembre-se de continuar explorando, participando da comunidade e adaptando seu conhecimento às demandas em constante evolução da indústria de desenvolvimento de software. Boa jornada!
+O guia tem o intuito de auxiliar pessoas que já estudam ou que pretendem estudar o ecossistema Java, mas não sabem muito bem qual caminho seguir.
+<br><br>
+Não há uma ordem certa que se deva seguir, penso que a melhor forma de utilizar este repositório, é compreendendo quais os tópicos necessários para
+que uma pessoa programadora seja considerada um dev Java. Se você aprendeu o Spring depois de Banco de Dados, tá tudo bem, por exemplo.
+<br><br>
+*Bons estudos!*
