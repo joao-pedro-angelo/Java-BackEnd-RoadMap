@@ -33,7 +33,7 @@
     - Conceitos básicos da Orientação a Objetos
 - [Projeto Básico - MovieData](https://github.com/joao-pedro-angelo/MovieData)
     - Criação de classes
-    - Separação das regras de negócio da interação com usuário
+    - Separação das regras de negócio da interação com o usuário
     - Uso de métodos estáticos
 
 
