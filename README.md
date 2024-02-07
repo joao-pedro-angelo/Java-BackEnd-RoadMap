@@ -16,8 +16,8 @@
     - Repositório com questões resolvidas
     - Estruturas de controle
     - Tipos e manipulação de dados
-- [Estrutura de dados e Algoritmos](https://github.com/joao-pedro-angelo/Data-Structures-Java):
-    - Repositório com conceitos teóricos e práticos sobre Estruturas de dados e Algoritmos
+- [Estrutura de dados e Algoritmos](https://joaoarthurbm.github.io/eda/conteudo/):
+    - Análise de Algoritmos
     - Algoritmos de busca e de ordenação
     - Estruturas lineares, linked list, tabela hash, árvores e heap
   
