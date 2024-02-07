@@ -24,7 +24,7 @@
 
 ---
 ### 02 - Programação Orientada a Objetos (POO):
-- [Apostila Java e Orientação a Objetos](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
+- [Apostila Java e Orientação a Objetos - Download 30mb](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
     - O que é Java e sintaxe básica
     - Introdução a Orientação a Objetos
     - Aprofundamento - Pilares da Orientação a Objetos
