@@ -44,12 +44,12 @@
 
 ---
 ### 04 - Banco de Dados:
-- [Introdução ao estudo dos Bancos de Dados](https://www.alura.com.br/artigos/banco-de-dados)
+- [Introdução](https://www.alura.com.br/artigos/banco-de-dados)
     - O que é banco de dados?
     - Principais tipos
-- [Sistemas de Banco de Dados - Navathe e Elmasri](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
+- [Banco de Dados Relacionais - Navathe e Elmasri](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
     - Livro recomendado para estudar conceitos gerais
-- [Livro de NoSQL](https://www.casadocodigo.com.br/products/livro-nosql)
+- [Banco de Dados NoSQL - Casa do Código](https://www.casadocodigo.com.br/products/livro-nosql)
     - Estudo de banco de dados não relacional
 
 #### 04.2 - Integrar aplicação Java com Banco de Dados
