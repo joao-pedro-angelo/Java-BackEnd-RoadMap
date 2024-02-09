@@ -9,14 +9,14 @@
 
 
 ### 01 - Java Fundamentos:
-- [Sobre a linguagem](https://www.alura.com.br/artigos/java):
+- [Sobre a linguagem](https://www.alura.com.br/artigos/java)
     - História da linguagem
     - Independência de plataforma
-- [Pratique com questões](https://github.com/joao-pedro-angelo/Java-Solved-Problems):
+- [Pratique com questões](https://github.com/joao-pedro-angelo/Java-Solved-Problems)
     - Repositório com questões resolvidas
     - Estruturas de controle
     - Tipos e manipulação de dados
-- [Estrutura de dados e Algoritmos](https://joaoarthurbm.github.io/eda/conteudo/):
+- [Estrutura de dados e Algoritmos](https://joaoarthurbm.github.io/eda/conteudo/)
     - Análise de Algoritmos
     - Algoritmos de busca e de ordenação
     - Estruturas lineares, linked list, tabela hash, árvores e heap
@@ -24,7 +24,7 @@
 
 ---
 ### 02 - Programação Orientada a Objetos (POO):
-- [Apostila Java e Orientação a Objetos - Download 30mb](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
+- [Java - Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
     - O que é Java e sintaxe básica
     - Introdução a Orientação a Objetos
     - Aprofundamento - Pilares da Orientação a Objetos
@@ -47,7 +47,7 @@
 - [Introdução](https://www.alura.com.br/artigos/banco-de-dados)
     - O que é banco de dados?
     - Principais tipos
-- [Banco de Dados Relacionais - Navathe e Elmasri](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
+- [Banco de Dados - Navathe e Elmasri](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
     - Livro recomendado para estudar conceitos gerais
 - [Banco de Dados NoSQL - Casa do Código](https://www.casadocodigo.com.br/products/livro-nosql)
     - Estudo de banco de dados não relacional
@@ -67,11 +67,11 @@
 ![etapa02](/imagens/etapa02.png)
 
 ### 05 - Princípios de Design e Padrões:
-- [Design Orientado a Objetos](https://github.com/joao-pedro-angelo/Design-Patterns):
+- [Design Orientado a Objetos](https://github.com/joao-pedro-angelo/Design-Patterns)
     - Repositório com conceitos teóricos e implementações de diversos padrões
     - Importância dos padrões de projeto
     - Modelagem de sistemas OO com base em alguns padrões
-- [Guru da refatoração](https://refactoring.guru/design-patterns):
+- [Guru da refatoração](https://refactoring.guru/design-patterns)
     - Melhor site para estudar este tópico
 - [GoF - Design Patterns](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
     - Principal livro sobre Design Patterns
