@@ -44,14 +44,21 @@
 
 ---
 ### 04 - Banco de Dados:
-> Em breve serão inseridos links aqui
-
+- [Introdução ao estudo dos Bancos de Dados](https://www.alura.com.br/artigos/banco-de-dados)
+    - O que é banco de dados?
+    - Principais tipos
+- [Sistemas de Banco de Dados - Navathe e Elmasri](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
+    - Livro recomendado para estudar conceitos gerais
+- [Livro de NoSQL](https://www.casadocodigo.com.br/products/livro-nosql)
+    - Estudo de banco de dados não relacional
 
 #### 04.2 - Integrar aplicação Java com Banco de Dados
 - [Sobre a API JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
     - Facilita o acesso a DBs
 - [CRUD: Java e JDBC](https://github.com/joao-pedro-angelo/ClassicBank)
     - Projeto que visa praticar a integração de um sistema Java com DBs, usando a API JDBC
+- [JPA com Hibernate]
+    - Em breve
 
 
 ---
