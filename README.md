@@ -86,7 +86,6 @@
     - Estudo sobre Banco de Dados não-relacional
     - Importância dos Bancos não-relacionais
     - Comparação entre diferentes tipos de BDs
-<br>
 
 
 ---
@@ -111,7 +110,6 @@
 
 - [CRUD com JPA Hibernate]
     - Em breve
-<br>
 
 
 ---
