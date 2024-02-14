@@ -108,8 +108,10 @@
     - Exemplos de uso prático da API
 <br>
 
-- [CRUD com JPA Hibernate]
-    - Em breve
+- [CRUD com JPA Hibernate](https://github.com/joao-pedro-angelo/JPA-Hibernate)
+    - JPA Hibernate em prática
+    - Create, Read, Delete, Update methods
+    - Factory Pattern
 
 
 ---
