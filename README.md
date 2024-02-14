@@ -58,12 +58,31 @@
 
 ---
 ## 03 - Spring Framework:
-> Em breve serão inseridos links aqui
+- [Site Oficial do Spring](https://spring.io/projects)
+    - Projetos do Spring
+    - Artigos
+    - Ambientação e comunidade
+<br>
+
+- [Introdução - WikipédiaEN](https://en.wikipedia.org/wiki/Spring_Framework)
+    - Artigo introdutório sobre o Spring Framework
+    - Projetos Spring
+<br>
+
+- [Vire o jogo com Spring Framework - Casa do Código](https://www.casadocodigo.com.br/products/livro-spring-framework)
+    - Livro do Henrique Lobo, boa introdução ao Spring Framework
+    - Histórico e motivos para a criação e uso do Spring
+    - Exemplos práticas
+
   
+---
+## 03.2 - Spring em Prática
+> Em construção
+
 
 ---
 ## 04 - Banco de Dados:
-- [Introdução](https://www.alura.com.br/artigos/banco-de-dados)
+- [Introdução - Artigo Alura](https://www.alura.com.br/artigos/banco-de-dados)
     - Conceitos teóricos sobre Bancos de Dados
     - Sistemas de Gerenciamento de Bancos de Dados
     - Principais tipos de BDs e SGBDs
