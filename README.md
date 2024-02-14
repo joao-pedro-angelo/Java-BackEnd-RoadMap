@@ -31,7 +31,7 @@
 
 ---
 ## 02 - Programação Orientada a Objetos (POO):
-- [Java - Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
+- [Java - Como Programar - Paul Deitel](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
     - Livro sobre a linguagem e o paradigma
     - O que é Java e sintaxe básica
     - Introdução a Orientação a Objetos
@@ -109,8 +109,8 @@
 
 ---
 ## 04.2 - Integrar aplicação Java com Banco de Dados:
-- [Sobre a API JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
-    - Artigo Alura sobre a API JDBC
+- [Artigo Alura - API JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
+    - Material teórico sobre a API JDBC
     - API Java que facilita o acesso a DBs
     - Persistir dados de um sistema Java utilizando esta API
 <br>
@@ -121,10 +121,10 @@
     - Pattern DAO
 <br>
 
-- [Sobre a JPA e suas implementações](https://en.wikipedia.org/wiki/Jakarta_Persistence)
+- [Artigo WikipédiaEN - JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence)
     - Java Persistence API
-    - Artigo WikipédiaEN sobre a JPA
-    - Exemplos de uso prático da API
+    - Teoria sobre a JPA
+    - Exemplos de uso prático da JPA
 <br>
 
 - [CRUD com JPA Hibernate](https://github.com/joao-pedro-angelo/JPA-Hibernate)
