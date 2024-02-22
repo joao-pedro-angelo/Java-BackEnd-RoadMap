@@ -57,35 +57,7 @@
 
 
 ---
-## 03 - Spring Framework:
-- [Site Oficial do Spring](https://spring.io/projects)
-    - Projetos do Spring
-    - Artigos
-    - Ambientação e comunidade
-<br>
-
-- [Documentação Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
-    - Importante conhecer a documentação
-<br>
-
-- [Introdução - WikipédiaEN](https://en.wikipedia.org/wiki/Spring_Framework)
-    - Artigo introdutório sobre o Spring Framework
-    - Projetos Spring
-<br>
-
-- [Vire o jogo com Spring Framework - Casa do Código](https://www.casadocodigo.com.br/products/livro-spring-framework)
-    - Livro do Henrique Lobo, boa introdução ao Spring Framework
-    - Histórico e motivos para a criação e uso do Spring
-    - Exemplos práticas
-
-  
----
-## 03.2 - Spring em Prática
-> Em construção
-
-
----
-## 04 - Banco de Dados:
+## 03 - Banco de Dados:
 - [Introdução - Artigo Alura](https://www.alura.com.br/artigos/banco-de-dados)
     - Conceitos teóricos sobre Bancos de Dados
     - Sistemas de Gerenciamento de Bancos de Dados
@@ -112,7 +84,7 @@
 
 
 ---
-## 04.2 - Integrar aplicação Java com Banco de Dados:
+## 03.2 - Integrar aplicação Java com Banco de Dados:
 - [Artigo Alura - API JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
     - Material teórico sobre a API JDBC
     - API Java que facilita o acesso a DBs
@@ -138,12 +110,45 @@
 
 
 ---
+## 04 - Spring Framework:
+- [Site Oficial do Spring](https://spring.io/projects)
+    - Projetos do Spring
+    - Artigos
+    - Ambientação e comunidade
+<br>
+
+- [Documentação Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
+    - Importante conhecer a documentação
+<br>
+
+- [Introdução - WikipédiaEN](https://en.wikipedia.org/wiki/Spring_Framework)
+    - Artigo introdutório sobre o Spring Framework
+    - Projetos Spring
+<br>
+
+- [Vire o jogo com Spring Framework - Casa do Código](https://www.casadocodigo.com.br/products/livro-spring-framework)
+    - Livro do Henrique Lobo, boa introdução ao Spring Framework
+    - Histórico e motivos para a criação e uso do Spring
+    - Exemplos práticas
+
+
+---
+## 04.2 - Spring em Prática
+> Em construção
+
+
+---
+## 05 - Testes de software:
+> Em breve serão inseridos links aqui
+
+
+---
 # Etapa de Aprofundamento
 
 ![etapa02](/imagens/etapa02.png)
 
 
-## 05 - Princípios de Design e Padrões:
+## 06 - Princípios de Design e Padrões:
 - [Design Orientado a Objetos](https://github.com/joao-pedro-angelo/Design-Patterns)
     - Repositório com conceitos teóricos e implementações de diversos padrões
     - Importância dos padrões de projeto
@@ -159,17 +164,7 @@
 
 
 ---
-## 06 - Arquitetura de Software:
-> Em breve serão inseridos links aqui
-
-
----
-## 07 - Integração e Entrega Contínua:
-> Em breve serão inseridos links aqui
-
-
----
-## 08 - Escalabilidade e Contêineres:
+## 07 - Arquitetura de Software:
 > Em breve serão inseridos links aqui
 
 
@@ -179,17 +174,22 @@
 ![etapa03](/imagens/etapa03.png)
 
 
-## 09 - Mensageria:
+## 08 - Integração e Entrega Contínua:
 > Em breve serão inseridos links aqui
 
 
 ---
-## 10 - Desenvolvimento na Nuvem:
+## 09 - Escalabilidade e Contêineres:
 > Em breve serão inseridos links aqui
 
 
 ---
-## 11 - Testes de software:
+## 10 - Mensageria:
+> Em breve serão inseridos links aqui
+
+
+---
+## 11 - Desenvolvimento na Nuvem:
 > Em breve serão inseridos links aqui
 
 
@@ -199,6 +199,5 @@
 O guia tem o intuito de auxiliar pessoas que já estudam ou que pretendem estudar o ecossistema Java, mas não sabem muito bem qual caminho seguir.
 <br><br>
 Não há uma ordem certa que se deva seguir, penso que a melhor forma de utilizar este repositório, é compreendendo quais os tópicos necessários para
-que uma pessoa programadora seja considerada um dev Java. Por exemplo, se você aprendeu o Spring depois de Banco de Dados, tá tudo bem.
-<br><br>
+que uma pessoa programadora seja considerada um dev Java.
 *Bons estudos!*
