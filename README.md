@@ -6,7 +6,7 @@
 ---
 # Etapa Inicial
 
-![etapa01](/imagens/etapa01.png)
+![etapa01](/imgs/tp01.png)
 
 
 ## 01 - Java Fundamentos:
@@ -145,7 +145,7 @@
 ---
 # Etapa de Aprofundamento
 
-![etapa02](/imagens/etapa02.png)
+![etapa02](/imgs/tp02.png)
 
 
 ## 06 - Princípios de Design e Padrões:
@@ -171,7 +171,7 @@
 ---
 # Etapa Avançada
 
-![etapa03](/imagens/etapa03.png)
+![etapa03](/mgs/tp03.png)
 
 
 ## 08 - Integração e Entrega Contínua:
