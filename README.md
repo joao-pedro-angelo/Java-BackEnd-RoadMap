@@ -171,7 +171,7 @@
 ---
 # Etapa Avançada
 
-![etapa03](/mgs/tp03.png)
+![etapa03](/imgs/tp03.png)
 
 
 ## 08 - Integração e Entrega Contínua:
