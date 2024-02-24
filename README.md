@@ -6,15 +6,15 @@
 ---
 # Sumário
 
-| Etapa Inicial          | Aprofundamento              | Etapa Avançada             |
-|------------------------|-----------------------------|-----------------------------|
-| Java Fundamentos       | Princípios de Design e Padrões | Integração e Entrega Contínua |
-| Programação Orientada a Objetos (POO) | Arquitetura de Software | Escalabilidade e Contêineres |
-| Banco de Dados         |                             | Mensageria |
-| Integrar aplicação Java com Banco de Dados |                             | Desenvolvimento na Nuvem |
-| Spring Framework       |                             |                             |
-| Spring em Prática      |                             |                             |
-| Testes de software     |                             |                             |
+| ESSENCIAL                                  | APROFUNDAMENTO                                        | TÓPICOS AVANÇADOS                            |
+|      :---:                                 |        :---:                                          |          :---:                               |
+| Java Fundamentos                           | Princípios de Design e Padrões                        | Integração e Entrega Contínua                |
+| Programação Orientada a Objetos (POO)      | Arquitetura de Software                               | Escalabilidade e Contêineres                 |
+| Banco de Dados                             |                                                       | Mensageria                                   |
+| Integrar aplicação Java com Banco de Dados |                                                       | Desenvolvimento na Nuvem                     |
+| Spring Framework                           |                                                       |                                              |
+| Spring em Prática                          |                                                       |                                              |
+| Testes de software                         |                                                       |                                              |
 
 
 ---
@@ -105,6 +105,7 @@
 # Conclusão
 
 O guia tem o intuito de auxiliar pessoas que já estudam ou que pretendem estudar o ecossistema Java, mas não sabem muito bem qual caminho seguir.
+
 Não há uma ordem certa que se deva seguir, penso que a melhor forma de utilizar este repositório é compreendendo quais os tópicos necessários para que uma pessoa programadora seja considerada um dev Java. 
 
 *Bons estudos!*
