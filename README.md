@@ -8,13 +8,13 @@
 
 | Etapa Inicial          | Aprofundamento              | Etapa Avançada             |
 |------------------------|-----------------------------|-----------------------------|
-| <span style="color: blue;">Java Fundamentos</span>       | <span style="color: green;">Princípios de Design e Padrões</span> | <span style="color: red;">Integração e Entrega Contínua</span> |
-| <span style="color: blue;">Programação Orientada a Objetos (POO)</span> | <span style="color: green;">Arquitetura de Software</span> | <span style="color: red;">Escalabilidade e Contêineres</span> |
-| <span style="color: blue;">Banco de Dados</span>         |                             | <span style="color: red;">Mensageria</span> |
-| <span style="color: blue;">Integrar aplicação Java com Banco de Dados</span> |                             | <span style="color: red;">Desenvolvimento na Nuvem</span> |
-| <span style="color: blue;">Spring Framework</span>       |                             |                             |
-| <span style="color: blue;">Spring em Prática</span>      |                             |                             |
-| <span style="color: blue;">Testes de software</span>     |                             |                             |
+| Java Fundamentos       | Princípios de Design e Padrões | Integração e Entrega Contínua |
+| Programação Orientada a Objetos (POO) | Arquitetura de Software | Escalabilidade e Contêineres |
+| Banco de Dados         |                             | Mensageria |
+| Integrar aplicação Java com Banco de Dados |                             | Desenvolvimento na Nuvem |
+| Spring Framework       |                             |                             |
+| Spring em Prática      |                             |                             |
+| Testes de software     |                             |                             |
 
 
 ---
