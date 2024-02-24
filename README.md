@@ -8,14 +8,13 @@
 
 | Etapa Inicial          | Aprofundamento              | Etapa Avançada             |
 |------------------------|-----------------------------|-----------------------------|
-| [Java Fundamentos](#Java-Fundamentos:)       | [Princípios de Design e Padrões](#princípios-de-design-e-padrões) | [Integração e Entrega Contínua](#integração-e-entrega-contínua) |
-| [Programação Orientada a Objetos (POO)](#programação-orientada-a-objetos-poo) | [Arquitetura de Software](#arquitetura-de-software) | [Escalabilidade e Contêineres](#escalabilidade-e-contêineres) |
-| [Banco de Dados](#banco-de-dados)         |                             | [Mensageria](#mensageria) |
-| [Integrar aplicação Java com Banco de Dados](#integrar-aplicação-java-com-banco-de-dados) |                             | [Desenvolvimento na Nuvem](#desenvolvimento-na-nuvem) |
-| [Spring Framework](#spring-framework)       |                             |                             |
-| [Spring em Prática](#spring-em-prática)      |                             |                             |
-| [Testes de software](#testes-de-software)     |                             |                             |
-
+| <span style="color: blue;">Java Fundamentos</span>       | <span style="color: green;">Princípios de Design e Padrões</span> | <span style="color: red;">Integração e Entrega Contínua</span> |
+| <span style="color: blue;">Programação Orientada a Objetos (POO)</span> | <span style="color: green;">Arquitetura de Software</span> | <span style="color: red;">Escalabilidade e Contêineres</span> |
+| <span style="color: blue;">Banco de Dados</span>         |                             | <span style="color: red;">Mensageria</span> |
+| <span style="color: blue;">Integrar aplicação Java com Banco de Dados</span> |                             | <span style="color: red;">Desenvolvimento na Nuvem</span> |
+| <span style="color: blue;">Spring Framework</span>       |                             |                             |
+| <span style="color: blue;">Spring em Prática</span>      |                             |                             |
+| <span style="color: blue;">Testes de software</span>     |                             |                             |
 
 
 ---
@@ -23,7 +22,7 @@
 
 ![etapa01](/imgs/tp01.png)
 
-### 01 - Java-Fundamentos:
+### 01 - Java Fundamentos:
 - [Artigo Alura](https://www.alura.com.br/artigos/java)
 - [WikipédiaEN - Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [Repositório com questões resolvidas](https://github.com/joao-pedro-angelo/Java-Solved-Problems)
