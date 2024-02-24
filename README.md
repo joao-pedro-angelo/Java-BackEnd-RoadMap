@@ -8,7 +8,7 @@
 
 | Etapa Inicial          | Aprofundamento              | Etapa Avançada             |
 |------------------------|-----------------------------|-----------------------------|
-| [Java Fundamentos](#Java-Fundamentos)       | [Princípios de Design e Padrões](#princípios-de-design-e-padrões) | [Integração e Entrega Contínua](#integração-e-entrega-contínua) |
+| [Java Fundamentos](#Java-Fundamentos:)       | [Princípios de Design e Padrões](#princípios-de-design-e-padrões) | [Integração e Entrega Contínua](#integração-e-entrega-contínua) |
 | [Programação Orientada a Objetos (POO)](#programação-orientada-a-objetos-poo) | [Arquitetura de Software](#arquitetura-de-software) | [Escalabilidade e Contêineres](#escalabilidade-e-contêineres) |
 | [Banco de Dados](#banco-de-dados)         |                             | [Mensageria](#mensageria) |
 | [Integrar aplicação Java com Banco de Dados](#integrar-aplicação-java-com-banco-de-dados) |                             | [Desenvolvimento na Nuvem](#desenvolvimento-na-nuvem) |
