@@ -23,7 +23,7 @@
 
 ![etapa01](/imgs/tp01.png)
 
-### 01 - Java Fundamentos:
+### 01 - Java-Fundamentos:
 - [Artigo Alura](https://www.alura.com.br/artigos/java)
 - [WikipédiaEN - Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [Repositório com questões resolvidas](https://github.com/joao-pedro-angelo/Java-Solved-Problems)
