@@ -2,8 +2,23 @@
 
 > O guia oferece um conjunto de tópicos e habilidades essenciais, desde os fundamentos do Java até o desenvolvimento de microsserviços, práticas de design avançadas, integração na nuvem e estratégias de escalabilidade.
 
----
 
+---
+# Sumário
+
+| Etapa Inicial          | Aprofundamento              | Etapa Avançada             |
+|------------------------|-----------------------------|-----------------------------|
+| [Java Fundamentos](#java-fundamentos)       | [Princípios de Design e Padrões](#princípios-de-design-e-padrões) | [Integração e Entrega Contínua](#integração-e-entrega-contínua) |
+| [Programação Orientada a Objetos (POO)](#programação-orientada-a-objetos-poo) | [Arquitetura de Software](#arquitetura-de-software) | [Escalabilidade e Contêineres](#escalabilidade-e-contêineres) |
+| [Banco de Dados](#banco-de-dados)         |                             | [Mensageria](#mensageria) |
+| [Integrar aplicação Java com Banco de Dados](#integrar-aplicação-java-com-banco-de-dados) |                             | [Desenvolvimento na Nuvem](#desenvolvimento-na-nuvem) |
+| [Spring Framework](#spring-framework)       |                             |                             |
+| [Spring em Prática](#spring-em-prática)      |                             |                             |
+| [Testes de software](#testes-de-software)     |                             |                             |
+
+
+
+---
 ## Etapa Inicial
 
 ![etapa01](/imgs/tp01.png)
