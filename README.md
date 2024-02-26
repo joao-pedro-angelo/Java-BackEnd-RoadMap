@@ -58,7 +58,7 @@
 
 
 ### 04.2 - Spring em Prática
-> Em construção
+- [Crud Java Spring - Iniciante](https://github.com/joao-pedro-angelo/Crud-Java-Spring)
 
 
 ### 05 - Testes de software:
