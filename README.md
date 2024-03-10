@@ -13,7 +13,6 @@
 | Banco de Dados                             |                                                       | Mensageria                                   |
 | Integrar aplicação Java com Banco de Dados |                                                       | Desenvolvimento na Nuvem                     |
 | Spring Framework                           |                                                       |                                              |
-| Spring em Prática                          |                                                       |                                              |
 | Testes de software                         |                                                       |                                              |
 
 
@@ -32,7 +31,6 @@
 ### 02 - Programação Orientada a Objetos (POO):
 - [Java - Como Programar - Paul Deitel](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
 - [Revisão Geral - Iniciante](/revisaoConceitosIniciais.md)
-- [Projeto Básico - MovieData](https://github.com/joao-pedro-angelo/MovieData)
 - [CRUD Completo](https://github.com/joao-pedro-angelo/ClassicBank)
 
 
@@ -58,7 +56,7 @@
 
 
 ### 04.2 - Spring em Prática
-- [Crud Java Spring - Iniciante](https://github.com/joao-pedro-angelo/Crud-Java-Spring)
+- [Repositório do Musicalizou - API REST Java Spring](https://github.com/joao-pedro-angelo/Musicalizou)
 
 
 ### 05 - Testes de software:
