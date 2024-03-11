@@ -56,11 +56,11 @@
 
 
 ### 04.2 - Spring em Prática
-- [Repositório do Musicalizou - API Spring](https://github.com/joao-pedro-angelo/Musicalizou)
+- [Repositório - Musicalizou Rest API](https://github.com/joao-pedro-angelo/Musicalizou)
 
 
 ### 05 - Testes de software:
-- [Testes da API REST Musicalizou](https://github.com/joao-pedro-angelo/Musicalizou/tree/master/src/test/java/com/music/review/app/controllers)
+- [Testes Unitários - Musicalizou](https://github.com/joao-pedro-angelo/Musicalizou/tree/master/src/test/java/com/music/review/app/controllers)
 
 
 ---
