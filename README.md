@@ -29,34 +29,34 @@
   
 
 ### 02 - Programação Orientada a Objetos (POO):
-- [Java - Como Programar - Paul Deitel](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
-- [Revisão Geral - Iniciante](/revisaoConceitosIniciais.md)
-- [CRUD Completo](https://github.com/joao-pedro-angelo/ClassicBank)
+- [Livro - Java Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
+- [Resumo.md - Revisão Geral Iniciante](/revisaoConceitosIniciais.md)
+- [Repositório com CRUD Completo](https://github.com/joao-pedro-angelo/ClassicBank)
 
 
 ### 03 - Banco de Dados:
-- [Introdução - Artigo Alura](https://www.alura.com.br/artigos/banco-de-dados)
-- [Banco de Dados - Navathe e Elmasri](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
-- [SQLBolt.com](https://sqlbolt.com/)
-- [Banco de Dados NoSQL - Casa do Código](https://www.casadocodigo.com.br/products/livro-nosql)
+- [Artigo Alura](https://www.alura.com.br/artigos/banco-de-dados)
+- [Livro - Sistemas de Banco de Dados](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
+- [Site - SQLBolt.com](https://sqlbolt.com/)
+- [Livro - Banco de Dados NoSQL](https://www.casadocodigo.com.br/products/livro-nosql)
 
 
 ### 03.2 - Integrar aplicação Java com Banco de Dados:
 - [Artigo Alura - API JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
-- [CRUD com API JDBC](https://github.com/joao-pedro-angelo/ClassicBank)
+- [Repositório - CRUD com API JDBC](https://github.com/joao-pedro-angelo/ClassicBank)
 - [Artigo WikipédiaEN - JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence)
-- [CRUD com JPA Hibernate](https://github.com/joao-pedro-angelo/JPA-Hibernate)
+- [Repositório - CRUD com JPA Hibernate](https://github.com/joao-pedro-angelo/JPA-Hibernate)
 
 
 ### 04 - Spring Framework:
 - [Site Oficial do Spring](https://spring.io/projects)
 - [Documentação Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
 - [Introdução - WikipédiaEN](https://en.wikipedia.org/wiki/Spring_Framework)
-- [Vire o jogo com Spring Framework - Casa do Código](https://www.casadocodigo.com.br/products/livro-spring-framework)
+- [Livro - Vire o jogo com Spring Framework](https://www.casadocodigo.com.br/products/livro-spring-framework)
 
 
 ### 04.2 - Spring em Prática
-- [Repositório do Musicalizou - API Java Spring](https://github.com/joao-pedro-angelo/Musicalizou)
+- [Repositório do Musicalizou - API Spring](https://github.com/joao-pedro-angelo/Musicalizou)
 
 
 ### 05 - Testes de software:
@@ -70,8 +70,8 @@
 
 ### 06 - Princípios de Design e Padrões:
 - [Repositório - Design Orientado a Objetos](https://github.com/joao-pedro-angelo/Design-Patterns)
-- [Guru da refatoração](https://refactoring.guru/design-patterns)
-- [GoF - Design Patterns](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
+- [Site - Guru da refatoração](https://refactoring.guru/design-patterns)
+- [Livro - Gang of Four](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
 
 
 ### 07 - Arquitetura de Software:
