@@ -24,13 +24,14 @@
 ### 01 - Java Fundamentos:
 - [Artigo Alura](https://www.alura.com.br/artigos/java)
 - [WikipédiaEN - Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-- [Repositório com questões resolvidas](https://github.com/joao-pedro-angelo/Java-Solved-Problems)
+- [Repositório com questões resolvidas](https://github.com/joao-pedro-angelo/JavaSolvedProblems)
 - [Site - Estrutura de dados e Algoritmos](https://joaoarthurbm.github.io/eda/conteudo/)
   
 
 ### 02 - Programação Orientada a Objetos (POO):
 - [Livro - Java Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
 - [Resumo.md - Revisão Geral Iniciante](/revisaoConceitosIniciais.md)
+- [Repositório - Consumir API](https://github.com/joao-pedro-angelo/DadosCamaraDeputados)
 - [Repositório com CRUD Completo](https://github.com/joao-pedro-angelo/ClassicBank)
 
 
@@ -69,7 +70,7 @@
 
 
 ### 06 - Princípios de Design e Padrões:
-- [Repositório - Design Orientado a Objetos](https://github.com/joao-pedro-angelo/Design-Patterns)
+- [Repositório - Design Orientado a Objetos](https://github.com/joao-pedro-angelo/DesignPatterns)
 - [Site - Guru da refatoração](https://refactoring.guru/design-patterns)
 - [Livro - Gang of Four](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
 
