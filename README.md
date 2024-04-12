@@ -58,10 +58,13 @@
 
 ### 04.2 - Spring em Prática
 - [Repositório - Musicalizou Rest API](https://github.com/joao-pedro-angelo/Musicalizou)
+- [Desafio Vaga BackEnd - API Restful](https://github.com/joao-pedro-angelo/PicPaySimplificado)
 
 
 ### 05 - Testes de software:
-- [Testes Unitários - Musicalizou](https://github.com/joao-pedro-angelo/Musicalizou/tree/master/src/test/java/com/music/review/app/controllers)
+- [Artigo - Testes Java com Mockito](https://medium.com/cwi-software/testando-seu-c%C3%B3digo-java-com-o-mockito-framework-8bea7287460a)
+- [Artigo - Test Driven Development](https://tdd.caelum.com.br/)
+- [Repositório - Testes da API Musicalizou](https://github.com/joao-pedro-angelo/Musicalizou/tree/master/src/test/java/com/music/review/app/controllers)
 
 
 ---
@@ -71,6 +74,7 @@
 
 ### 06 - Princípios de Design e Padrões:
 - [Repositório - Design Orientado a Objetos](https://github.com/joao-pedro-angelo/DesignPatterns)
+- [Artigo - SOLID](https://www.alura.com.br/artigos/solid)
 - [Site - Guru da refatoração](https://refactoring.guru/design-patterns)
 - [Livro - Gang of Four](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
 
