@@ -65,7 +65,7 @@
 - [Artigo - Testes Unitários com Junit5](https://www.devmedia.com.br/junit-tutorial/1432)
 - [Artigo - Testes Java com Mockito](https://medium.com/cwi-software/testando-seu-c%C3%B3digo-java-com-o-mockito-framework-8bea7287460a)
 - [Artigo - Test Driven Development](https://tdd.caelum.com.br/)
-- [Repositório - Testes da API Musicalizou](https://github.com/joao-pedro-angelo/Musicalizou/tree/master/src/test/java/com/music/review/app/controllers)
+- [Repositório - Testes dos Controladores da API Musicalizou](https://github.com/joao-pedro-angelo/Musicalizou/tree/master/src/test/java/com/music/review/app/controllers)
 
 
 ---
