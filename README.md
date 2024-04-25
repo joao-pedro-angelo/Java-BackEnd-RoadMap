@@ -63,6 +63,7 @@
 
 ### 05 - Testes de software:
 - [Artigo - Tipos de Testes](https://www.alura.com.br/artigos/tipos-de-testes-principais-por-que-utiliza-los)
+- [Artigo - Melhores práticas na construção de testes](https://medium.com/@pablodarde/testes-unit%C3%A1rios-com-tdd-test-driven-development-657f3dadad06)
 - [Artigo - Testes Unitários com Junit5](https://www.devmedia.com.br/junit-tutorial/1432)
 - [Artigo - Testes Java com Mockito](https://medium.com/cwi-software/testando-seu-c%C3%B3digo-java-com-o-mockito-framework-8bea7287460a)
 - [Artigo - Test Driven Development](https://tdd.caelum.com.br/)
