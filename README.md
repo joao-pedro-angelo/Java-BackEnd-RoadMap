@@ -80,7 +80,8 @@
 
 
 ### 07 - Arquitetura de Software:
-> Em breve serão inseridos links aqui
+- [Site com Material Escrito - Arquitetura de Software](https://joaoarthurbm.github.io/arquitetura-de-software/conteudo/)
+- [Artigo - Martin Fowler](https://martinfowler.com/architecture/) 
 
 
 ---
