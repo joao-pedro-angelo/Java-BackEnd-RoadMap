@@ -36,7 +36,7 @@
 
 
 ### 03 - Banco de Dados:
-- [Artigo Alura](https://www.alura.com.br/artigos/banco-de-dados)
+- [Artigo Aura](https://www.alura.com.br/artigos/banco-de-dados)
 - [Livro - Sistemas de Banco de Dados](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
 - [Site - SQLBolt.com](https://sqlbolt.com/)
 - [Livro - Banco de Dados NoSQL](https://www.casadocodigo.com.br/products/livro-nosql)
@@ -63,11 +63,9 @@
 
 ### 05 - Testes de software:
 - [Artigo - Tipos de Testes](https://www.alura.com.br/artigos/tipos-de-testes-principais-por-que-utiliza-los)
-- [Artigo - Melhores práticas na construção de testes](https://medium.com/@pablodarde/testes-unit%C3%A1rios-com-tdd-test-driven-development-657f3dadad06)
-- [Artigo - Testes Unitários com Junit5](https://www.devmedia.com.br/junit-tutorial/1432)
-- [Artigo - Testes Java com Mockito](https://medium.com/cwi-software/testando-seu-c%C3%B3digo-java-com-o-mockito-framework-8bea7287460a)
-- [Artigo - Test Driven Development](https://tdd.caelum.com.br/)
-- [Repositório - Testes dos Controladores da API Musicalizou](https://github.com/joao-pedro-angelo/Musicalizou/tree/master/src/test/java/com/music/review/app/controllers)
+- [Artigo - Melhores práticas em testes](https://medium.com/@pablodarde/testes-unit%C3%A1rios-com-tdd-test-driven-development-657f3dadad06)
+- [Artigo - TDD](https://tdd.caelum.com.br/)
+- [Repositório - Testes Controllers](https://github.com/joao-pedro-angelo/Musicalizou/tree/master/src/test/java/com/music/review/app/controllers)
 
 
 ---
