@@ -47,6 +47,7 @@ levei para meu próximo emprego em uma empresa global muito conhecida
 e admirada no ramo de consultoria de TI.
 Ao entrar em minha nova empresa, decidi que já havia visto bastante software e
 era bom o suficiente em escrever código, e então me declarei um arquiteto. 
+
 Ao encontrar alguns de meus novos colegas pela primeira vez, fui calorosamente recebido
 e perguntado sobre qual seria meu papel. Respondi que eu era um arquiteto; algo que
 pensei que daria um sentido de competência no ```nível micro da pilha de tecnologias,
