@@ -50,15 +50,14 @@
 
 
 ### 04 - Spring Framework:
-- [Site Oficial do Spring](https://spring.io/projects)
-- [Documentação Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
+- [Site Oficial](https://spring.io/projects)
 - [Introdução - WikipédiaEN](https://en.wikipedia.org/wiki/Spring_Framework)
 - [Livro - Vire o jogo com Spring Framework](https://www.casadocodigo.com.br/products/livro-spring-framework)
 
 
 ### 04.2 - Spring em Prática
 - [Repositório - Musicalizou Rest API](https://github.com/joao-pedro-angelo/Musicalizou)
-- [Desafio Vaga BackEnd - API Restful](https://github.com/joao-pedro-angelo/PicPaySimplificado)
+- [Desafio Vaga - Rest API](https://github.com/joao-pedro-angelo/PicPaySimplificado)
 
 
 ### 05 - Testes de software:
@@ -81,8 +80,8 @@
 
 
 ### 07 - Arquitetura de Software:
-- [Texto.md - O que faz um Arquiteto de Software?](/oArquiteto.md)
-- [Site com Material Escrito - Arquitetura de Software](https://joaoarthurbm.github.io/arquitetura-de-software/conteudo/)
+- [Texto.md - Arquiteto de Software](/oArquiteto.md)
+- [Site - Arquitetura de Software](https://joaoarthurbm.github.io/arquitetura-de-software/conteudo/)
 - [Artigo - Martin Fowler](https://martinfowler.com/architecture/) 
 
 
