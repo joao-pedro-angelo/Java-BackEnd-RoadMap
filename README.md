@@ -83,6 +83,7 @@
 
 
 ### 07 - Arquitetura de Software:
+- [Texto.md - O que faz um Arquiteto de Software?](/oArquiteto.md)
 - [Site com Material Escrito - Arquitetura de Software](https://joaoarthurbm.github.io/arquitetura-de-software/conteudo/)
 - [Artigo - Martin Fowler](https://martinfowler.com/architecture/) 
 
