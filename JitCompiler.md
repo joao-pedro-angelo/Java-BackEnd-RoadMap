@@ -1,5 +1,8 @@
 # JIT Compiler: compilação em tempo de execução
 
+> A arquitetura Java é baseada na interpretação de Bytecodes pela JVM.<br>
+> Mas esta Máquina Virtual é muito mais complexa do que um mero interpretador.<br>
+
 > Texto retirado do livro: "Arquitetura e Design de Software, dos irmãos Silveira"
 
 ---
