@@ -80,8 +80,8 @@
 
 
 ### 07 - Arquitetura de Software:
-- [O papel do Arquiteto de Software](/oArquiteto.md)
-- [Arquitetura Java - JIT Compiler](/JitCompiler.md)
+- [Texto.md - Arquiteto de Software](/oArquiteto.md)
+- [Texto.md - Arquitetura Java](/JitCompiler.md)
 - [Site - Arquitetura de Software](https://joaoarthurbm.github.io/arquitetura-de-software/conteudo/)
 - [Artigo - Martin Fowler](https://martinfowler.com/architecture/) 
 
