@@ -79,7 +79,9 @@ Estruturas de controle, combinadas com execuções sequenciais, poderiam substit
 A programação estruturada permite que os módulos de um sistema sejam decompostos em funções de alto nível. A partir dessas funções, podemos realizar testes para tentar provar que estas pequenas funções estão incorretas. Se os testes não conseguirem provar a incorreção das funções, então elas serão suficientemente corretas para o propósito.
 
 ### Programação Funcional
-Imutabilidade. A programação funcional impõe disciplina sobre a atribuição.
+Imutabilidade. A programação funcional impõe disciplina sobre a atribuição.<br>
+Primeiro paradigma desenvolvido, criado antes mesmo da programação e baseado no cálculo diferencial e integral.<br>
+Uso de funções anônimas, ou seja, sem declaração.
 
 ### Programação Orientada a Objetos
 Abstração de objetos do mundo real em classes, que geram instâncias programáveis.<br>
