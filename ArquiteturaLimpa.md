@@ -53,4 +53,45 @@ programa permanecerá continuamente útil.
 
 ---
 ## Paradigmas da Programação
+> A arquitetura de software começa pelo código.<br>
+> Paradigmas de programação são maneiras de se programar.<br>
 
+Há três grandes paradigmas de programação: Paradigma estruturado, funcional e orientado a objetos.<br>
+Observe o alinhamento desses três paradigmas com as três grandes preocupações arquiteturais:
+- Funções;
+- Separação de Componentes;
+- Gerenciamento de Dados;
+
+Mas antes, veja um pequeno texto sobre testes.
+
+### Testes
+Um programa pode ser provado como incorreto por um teste, mas um teste não pode provar que um programa está correto.
+Tudo o que os testes fazem, depois de todos os esforços necessários, é permitir que consideremos um programa como suficientemente correto para os nossos propósitos.
+
+A matemática é a ciência que prova que algo está correto.<br>
+A ciência, por sua vez, não tem como provar que algo está correto, mas prova que algo está incorreto.
+
+O desenvolvimento de software é como o desenvolvimento científico. Demonstramos a exatidão, quando falhamos em comprovar a inexatidão.
+
+### Programação Estruturada
+Com o uso de funções, laços de iteração e condicionais, a programação estrutura impôs disciplina sobre a transferência de controle.<br>
+Estruturas de controle, combinadas com execuções sequenciais, poderiam substituir os comandos "goto". Todos os programas podem ser construídos a partir de três estruturas: sequência, seleção e iteração.<br>
+A programação estruturada permite que os módulos de um sistema sejam decompostos em funções de alto nível. A partir dessas funções, podemos realizar testes para tentar provar que estas pequenas funções estão incorretas. Se os testes não conseguirem provar a incorreção das funções, então elas serão suficientemente corretas para o propósito.
+
+### Programação Funcional
+Imutabilidade. A programação funcional impõe disciplina sobre a atribuição.
+
+### Programação Orientada a Objetos
+Abstração de objetos do mundo real em classes, que geram instâncias programáveis.<br>
+A base de uma boa arquitetura, é a compreensão e aplicação dos princípios do Design Orientado a Objetos.<br>
+Linguagens orientadas a objetos possibilitam o encapsulamento fácil não só de funções, como também de dados.<br>
+A grande sacada da programação orientada a objetos, é a construção de sistemas de baixo acoplamento, com o polimorfismo e inversão de dependências, isso é possível.<br>
+Para o arquiteto de software, a OO é a habilidade de ter controle absoluto sobre cada dependência de código-fonte do sistema. Módulos de alto nível independentes dos módulos de baixo nível.
+
+### Conclusão sobre os paradigmas
+Decompor o programa em funções, facilita o desenvolvimento de testes, que podem comprovar a incorreção dessas funções, mas não a corretude das mesmas.
+
+O software é como a ciência, orientado pela refutabilidade. Testes não provam corretude, mas sim a incorretude.
+
+---
+## Design de Sistemas
