@@ -62,7 +62,7 @@ Observe o alinhamento desses três paradigmas com as três grandes preocupaçõe
 - Separação de Componentes;
 - Gerenciamento de Dados;
 
-Mas antes, veja um pequeno texto sobre testes.
+Antes do resumo sobre os paradigmas, veja um pequeno texto sobre testes.
 
 ### Testes
 Um programa pode ser provado como incorreto por um teste, mas um teste não pode provar que um programa está correto.
@@ -74,8 +74,9 @@ A ciência, por sua vez, não tem como provar que algo está correto, mas prova 
 O desenvolvimento de software é como o desenvolvimento científico. Demonstramos a exatidão, quando falhamos em comprovar a inexatidão.
 
 ### Programação Estruturada
-Com o uso de funções, laços de iteração e condicionais, a programação estrutura impôs disciplina sobre a transferência de controle.<br>
-Estruturas de controle, combinadas com execuções sequenciais, poderiam substituir os comandos "goto". Todos os programas podem ser construídos a partir de três estruturas: sequência, seleção e iteração.<br>
+Com o uso de funções, laços de iteração e condicionais, a programação estruturada impôs disciplina sobre a transferência de controle.<br>
+Estruturas de controle, combinadas com execuções sequenciais, substituem os comandos "goto".<br>
+Todos os programas podem ser construídos a partir de três estruturas: sequência, seleção e iteração.<br>
 A programação estruturada permite que os módulos de um sistema sejam decompostos em funções de alto nível. A partir dessas funções, podemos realizar testes para tentar provar que estas pequenas funções estão incorretas. Se os testes não conseguirem provar a incorreção das funções, então elas serão suficientemente corretas para o propósito.
 
 ### Programação Funcional
@@ -87,10 +88,10 @@ Uso de funções anônimas, ou seja, sem declaração.
 Abstração de objetos do mundo real em classes, que geram instâncias programáveis.<br>
 A base de uma boa arquitetura, é a compreensão e aplicação dos princípios do Design Orientado a Objetos.<br>
 Linguagens orientadas a objetos possibilitam o encapsulamento fácil não só de funções, como também de dados.<br>
-A grande sacada da programação orientada a objetos, é a construção de sistemas de baixo acoplamento, com o polimorfismo e inversão de dependências, isso é possível.<br>
+A grande sacada da programação orientada a objetos, é a construção de sistemas de baixo acoplamento.<br>
 Para o arquiteto de software, a OO é a habilidade de ter controle absoluto sobre cada dependência de código-fonte do sistema. Módulos de alto nível independentes dos módulos de baixo nível.
 
-### Conclusão sobre os paradigmas
+### Conclusão do capítulo 2
 Decompor o programa em funções, facilita o desenvolvimento de testes, que podem comprovar a incorreção dessas funções, mas não a corretude das mesmas.
 
 O software é como a ciência, orientado pela refutabilidade. Testes não provam corretude, mas sim a incorretude.
