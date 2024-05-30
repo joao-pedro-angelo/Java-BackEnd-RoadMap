@@ -97,4 +97,47 @@ Decompor o programa em funções, facilita o desenvolvimento de testes, que pode
 O software é como a ciência, orientado pela refutabilidade. Testes não provam corretude, mas sim a incorretude.
 
 ---
-## Design de Sistemas
+## Design de Código
+
+> Uma boa arquitetura de software, começa com o código limpo.
+> Se os tijolos não são bem feitos, não há como a arquitetura da construção ser boa.
+
+Os princípios SOLID nos dizem como organizar as funções e estruturas de dados em classes e como essas classes interagem entre si. O uso do termo "classe" não implica dizer que esses princípios só sejam aplicados em softwares orientados a objetos. Uma classe é apenas um agrupamento de dados e funções.
+
+Com os princípios SOLID, podemos construir softwares que toleram mudanças, são fáceis de entender e possuem baixo acoplamento.
+
+Os princípios SOLID são usados no nível do código (os tijolos da construção).<br>
+Depois, iremos ver princípios usados no mundo dos componentes e, em seguida, os princípios no nível arquitetural de alto nível.
+
+### Princípio S - Responsabilidade Única
+
+> Single Responsibility Principle
+
+Cada módulo (classe) do software deve uma única razão para existir e mudar.
+
+### Princípio O - Aberto/Fechado
+
+> Open/Closed Principle
+
+Adição de nova funcionalidade sem necessidade de alterar as antigas funções.
+
+### Princípio L - Substituição
+
+> Substitution Principle
+
+Um elemento de software pode ser substituído por qualquer um dos seus subtipos.
+
+### Princípio I - Interfaces
+
+> Interface Principle
+
+Dependências de interfaces, não de implementações
+
+### Princípio D - Inversão de Dependências
+
+> Dependency Inversion
+
+Código de alto nível não deve depender de código de baixo nível e vice-versa.
+
+---
+## Design de Componentes
