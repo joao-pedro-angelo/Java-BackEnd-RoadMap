@@ -21,35 +21,35 @@
 
 ![etapa01](/imgs/tp01.png)
 
-### 01 - Java Fundamentos:
+### 01 - Java Fundamentos
 - [Artigo Alura](https://www.alura.com.br/artigos/java)
 - [WikipédiaEN - Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [Repositório com questões resolvidas](https://github.com/joao-pedro-angelo/JavaSolvedProblems)
 - [Site - Estrutura de dados e Algoritmos](https://joaoarthurbm.github.io/eda/conteudo/)
   
 
-### 02 - Programação Orientada a Objetos (POO):
+### 02 - Programação Orientada a Objetos (POO)
 - [Livro - Java Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
 - [Resumo.md - Revisão Geral Iniciante](/revisaoConceitosIniciais.md)
 - [Repositório - Consumir API](https://github.com/joao-pedro-angelo/DadosCamaraDeputados)
 - [Repositório com CRUD Completo](https://github.com/joao-pedro-angelo/ClassicBank)
 
 
-### 03 - Banco de Dados:
+### 03 - Banco de Dados
 - [Artigo Aura](https://www.alura.com.br/artigos/banco-de-dados)
 - [Livro - Sistemas de Banco de Dados](https://www.amazon.com.br/Sistemas-banco-dados-Ramez-Elmasri/dp/8579360854)
 - [Site - SQLBolt.com](https://sqlbolt.com/)
 - [Livro - Banco de Dados NoSQL](https://www.casadocodigo.com.br/products/livro-nosql)
 
 
-### 03.2 - Integrar aplicação Java com Banco de Dados:
+### 03.2 - Integrar aplicação Java com Banco de Dados
 - [Artigo Alura - API JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc)
 - [Repositório - CRUD com API JDBC](https://github.com/joao-pedro-angelo/ClassicBank)
 - [Artigo WikipédiaEN - JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence)
 - [Repositório - CRUD com JPA Hibernate](https://github.com/joao-pedro-angelo/JPA-Hibernate)
 
 
-### 04 - Spring Framework:
+### 04 - Spring Framework
 - [Site Oficial](https://spring.io/projects)
 - [Introdução - WikipédiaEN](https://en.wikipedia.org/wiki/Spring_Framework)
 - [Livro - Vire o jogo com Spring Framework](https://www.casadocodigo.com.br/products/livro-spring-framework)
@@ -60,7 +60,7 @@
 - [Desafio Vaga - Rest API](https://github.com/joao-pedro-angelo/PicPaySimplificado)
 
 
-### 05 - Testes de software:
+### 05 - Testes de software
 - [Artigo - Tipos de Testes](https://www.alura.com.br/artigos/tipos-de-testes-principais-por-que-utiliza-los)
 - [Artigo - Melhores práticas em testes](https://medium.com/@pablodarde/testes-unit%C3%A1rios-com-tdd-test-driven-development-657f3dadad06)
 - [Artigo - TDD](https://tdd.caelum.com.br/)
@@ -72,14 +72,14 @@
 ![etapa02](/imgs/tp02.png)
 
 
-### 06 - Princípios de Design e Padrões:
+### 06 - Princípios de Design e Padrões
 - [Repositório - Design Orientado a Objetos](https://github.com/joao-pedro-angelo/DesignPatterns)
 - [Artigo - SOLID](https://www.alura.com.br/artigos/solid)
 - [Site - Guru da refatoração](https://refactoring.guru/design-patterns)
 - [Livro - Gang of Four](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
 
 
-### 07 - Arquitetura de Software:
+### 07 - Arquitetura de Software
 - [Texto.md - Arquiteto de Software](/oArquiteto.md)
 - [Texto.md - Arquitetura Java](/JitCompiler.md)
 - [Site - Arquitetura de Software](https://joaoarthurbm.github.io/arquitetura-de-software/conteudo/)
@@ -92,19 +92,19 @@
 ![etapa03](/imgs/tp03.png)
 
 
-### 08 - Integração e Entrega Contínua:
+### 08 - Integração e Entrega Contínua
 > Em breve serão inseridos links aqui
 
 
-### 09 - Escalabilidade e Contêineres:
+### 09 - Escalabilidade e Contêineres
 > Em breve serão inseridos links aqui
 
 
-### 10 - Mensageria:
+### 10 - Mensageria
 > Em breve serão inseridos links aqui
 
 
-### 11 - Desenvolvimento na Nuvem:
+### 11 - Desenvolvimento na Nuvem
 > Em breve serão inseridos links aqui
 
 
