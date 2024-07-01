@@ -73,7 +73,7 @@
 
 
 ### 06 - Princípios de Design e Padrões
-- [Repositório - Design Orientado a Objetos](https://github.com/joao-pedro-angelo/DesignPatterns)
+- [Repositório - Design Orientado a Objetos](https://github.com/joao-pedro-angelo/PSOFT-UFCG)
 - [Artigo - SOLID](https://www.alura.com.br/artigos/solid)
 - [Site - Guru da refatoração](https://refactoring.guru/design-patterns)
 - [Livro - Gang of Four](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
