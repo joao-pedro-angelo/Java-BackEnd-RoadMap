@@ -68,7 +68,7 @@
 
 
 ---
-## Etapa de Aprofundamento
+## Etapa Intermediária
 ![etapa02](/imgs/tp02.png)
 
 
